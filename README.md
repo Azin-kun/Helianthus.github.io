@@ -1,3 +1,3 @@
 # Helianthus.github.io
-gallery website
+website at:
 https://azin-kun.github.io/Helianthus.github.io/
